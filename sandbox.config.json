@@ -1,6 +1,0 @@
-{
-  "template": "static",
-  "scripts": {
-    "start": "serve -s . -l 3000"
-  }
-}
