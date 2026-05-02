@@ -1,9 +1,3 @@
 {
-  "template": "static",
-  "entry": "index.html",
-  "view": "browser",
-  "container": {
-    "port": 3000,
-    "startScript": "serve"
-  }
+  "template": "static"
 }
